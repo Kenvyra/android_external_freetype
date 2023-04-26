@@ -1,0 +1,5 @@
+{
+    "name": "yaap",
+    "fetch": "https://github.com/yaap/external_freetype",
+    "revision": "refs/heads/thirteen"
+}
